@@ -1,0 +1,28 @@
+/* blue */
+a:link, a:visited {
+  color: #135cae;
+}
+
+a:hover {
+  color: #0b3768;
+}
+
+/* side menu bottom right box */
+div.module_menu {
+  background: url(blue/mw_box_br.png) 100% 100% no-repeat;
+}
+
+/* side menu bottom left box */
+div.module_menu div {
+  background: url(blue/mw_box_bl.png) 0 100% no-repeat;
+}
+
+/* side menu top right box */
+div.module_menu div div {
+  background: url(blue/mw_box_tr.png) 100% 0 no-repeat;
+}
+
+/* side menu top left box */
+div.module_menu div div div {
+  background: url(blue/mw_box_tl.png) 0 0 no-repeat;
+}

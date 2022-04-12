@@ -1,0 +1,26 @@
+<phpunit bootstrap="tests/bootstrap.php" 
+         stderr="true"
+         colors="true" >
+    <testsuites>
+        <testsuite name="unit">
+            <directory>tests/unit</directory>
+        </testsuite>
+        <testsuite name="functional">
+            <directory>tests/functional</directory>
+        </testsuite>
+        <testsuite name="acceptance">
+            <directory>tests/functional/acceptance</directory>
+        </testsuite>
+    </testsuites>
+
+    <!-- This filter is for the code coverage -->
+    <filter>
+        <whitelist processUncoveredFilesFromWhitelist="true">
+            <directory suffix=".php">application/models/services</directory>
+        </whitelist>
+    </filter>
+
+    <logging>
+        <log type="coverage-clover" target="cov.xml"/>
+    </logging>
+</phpunit>

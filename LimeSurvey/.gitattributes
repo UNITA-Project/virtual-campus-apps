@@ -1,0 +1,38 @@
+# exclude build/devel/test files from export to zip/tarball
+.bowerrc                export-ignore
+buildVueComponents.js   export-ignore
+composer.json           export-ignore
+CONTRIBUTING.md         export-ignore
+.editorconfig           export-ignore
+.eslint*                export-ignore
+.flowconfig             export-ignore
+.git*                   export-ignore
+.jshintrc               export-ignore
+manifest.yml            export-ignore
+package.json            export-ignore
+phpci.yml               export-ignore
+phpcs.ruleset.xml       export-ignore
+phpunit.xml             export-ignore
+palm.xml             export-ignore
+tests                   export-ignore
+yarn.lock               export-ignore
+
+# Set default behaviour, in case users don't have core.autocrlf set.
+* text=auto
+
+# Declare files that will always have LF line endings on checkout.
+*.php text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.pstpl text eol=lf
+*.html text eol=lf
+*.sql text eol=lf
+*.txt text eol=lf
+*.lss text eol=lf
+
+# Denote all files that are truly binary and should not be modified.
+*.jpg binary
+*.png binary
+*.gif binary
+*.ico binary
+*.mo binary

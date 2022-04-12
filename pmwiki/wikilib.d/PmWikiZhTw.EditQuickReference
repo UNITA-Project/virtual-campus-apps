@@ -1,0 +1,11 @@
+version=pmwiki-2.2.0-beta65 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.12) Gecko/20080129 Iceweasel/2.0.0.12 (Debian-2.0.0.12-0etch1)
+author=Bartolin
+charset=UTF-8
+csum=changed references to AdvancedTables and SimpleTables
+host=77.185.138.214
+name=PmWikiZhTw.EditQuickReference
+rev=5
+targets=PmWiki.TextFormattingRules,PmWiki.TipsForEditing,PmWiki.DocumentationIndex,PmWiki.Tables,PmWiki.TableDirectives
+text=(:table width='100%25' cellspacing='0' cellpadding='0' style='font-size:12px; font-family:Arial;' bgcolor='#eeeeff':)%0a(:cellnr:)%0a%25target=_blank%25 [[PmWiki/Text Formatting Rules]] - [[PmWiki/Tips For Editing]] - [[PmWiki/Documentation Index]]%0a(:cell align=right:)%0a%25target=_blank%25 '''表格︰''' [[PmWiki/Tables]] - [[PmWiki/TableDirectives]]%0a(:cellnr:)%0a'''段落︰''' 建立新的文章段落，連按兩次 ''return'' 鍵;\\%0a'''[=->=]''' 縮排, '''[=-%3c=]''' 凸排 %0a(:cell align=right:)%0a'''斷行︰''' '''[=\\=]''' 或 '''[=[[%3c%3c]]=]'''%0a(:cellnr colspan='2':)%0a'''列表︰''' '''*''' 為項目， '''#''' 為編號， ''':'''term''':'''definition 為定義 \\%0a'''字體變化︰''' [=''斜體''=], [='''粗體'''=], [='''''粗斜體'''''=], [=@@等寬字型@@=] (monospaced) \\%0a'''參照︰''' [=[[another page]]=], [=[[http://www.example.com]]=], [=[[another page | link text]]=], [=[[#anchor]]=] \\%0a'''群組︰''' [=[[群組名/頁面標題]]=] 顯示 頁面標題；[=[[群組名.頁面標題]]=] 顯示 群組名.頁面標題；\\%0a[=[[群組名(.頁面標題)]]=] 顯示 群組名%0a(:cellnr:)%0a'''分隔︰''' '''!''', '''!!''', '''!!!''' 設定標題, '''[=----=]''' 水平分隔線 \\%0a'''字體大小''' [=[+...+]=] 放大， [=[-...-]=] 縮小，%0a'''[='^=]'''上標字'''[=^'=]''', '''[='_=]'''下標字'''[=_'=]'''%0a(:cell align=right:)%0a'''不格式化︰''' [=[=...=]=] %0a(:tableend:)
+time=1205328492

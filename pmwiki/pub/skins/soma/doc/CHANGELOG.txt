@@ -1,0 +1,22 @@
+Version 1.1
+
+2006-02-15 Carlos AB <carlos.ab@gmail.com>
+
+Changed:
+
+* Change the soma.php variables to use SDV().
+* $Pagename was changed to $PageUrl on breadcrumbs.
+* SideBar works with different groups now.
+* All headings have the same color.
+* Changed sidebar border.
+* Removed some garbage in the css file.
+* Changed the title a litle.
+* Included a favicon file.
+* Now soma is a xhtml 1.0 valid.
+* Now soma is css valid.
+
+Version 1.0
+
+2006-02-01  Carlos AB <carlos.ab@gmail.com>
+
+  * First release.

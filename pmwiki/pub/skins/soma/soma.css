@@ -1,0 +1,240 @@
+body {
+	background-color : #fff;
+	color : black;
+	font-family : Trebuchet, "Trebuchet MS", Verdana, Arial, sans-serif;
+	font-size : 14px;
+	margin : auto;
+        max-width: 1024px;
+}
+h1, h2, h3, h4, h5 {
+	line-height : 15px;
+}
+h1 {
+	font-size : 180%;
+	color : #ffa500;
+	background-color : transparent;
+}
+h2 {
+	font-size : 140%;
+	color : #ffa500;
+	background-color : transparent;
+}
+h3 {
+	font-size : 120%;
+	color : #ffa500;
+	background-color : transparent;
+}
+h4 {
+	font-size : 100%;
+	color : #ffa500;
+	background-color : transparent;
+}
+h5 {
+	font-size : 100%;
+	font-weight : normal;
+	font-style : italic;
+	color : #ff0500;
+	background-color : transparent;
+}
+hr {
+	border: 1px solid #ddd;
+}
+input, textarea {
+	border : 1px solid #ccc;
+	background : #fdfdfd;
+	margin : 3px;
+	padding : 2px;
+}
+#header {
+	width : 100%;
+	height : 30px;
+	background-color : #ffa500;
+}
+#header a {
+	color : #fff;
+	background-color : transparent;
+	text-decoration : none;
+}
+#header a:hover {
+	color : #fff;
+	background-color : transparent;
+	text-decoration : none;
+}
+.title {
+	width : 50%;
+	height : 30px;
+	padding-left : 10px;
+	padding-right : 10px;
+}
+.sitetitle {
+	letter-spacing : 7px;
+	vertical-align : middle;
+	color : #483d8b;
+	background-color : transparent;
+	font-weight : bold;
+	font-size: 1.7em;
+}
+.subtitle {
+	vertical-align : bottom;
+	color : #483d8b;
+	background-color : transparent;
+	font-size : 1.10em;
+	font-weight : normal;
+}
+.search {
+	vertical-align : middle;
+	text-align : right;
+	width : 50%;
+	height : 30px;
+	padding : 10px;
+	font-size: 1.4em;
+}
+.searchbox {
+	border: 1px solid #aaa;
+}
+.searchbutton {
+	width: 27px;
+	height: 23px
+}
+#navbar {
+	width : 100%;
+	border : 1px;
+	background-color : #3cb371;
+}
+#navbar a {
+	color : #fff;
+	background-color : transparent;
+	text-decoration : none;
+}
+#navbar a:hover {
+	color : #f0e68c;
+	background-color : transparent;
+	text-decoration : none;
+}
+.date {
+	width: 33%;
+	padding-left : 10px;
+	color : #fff;
+	background-color : transparent;
+}
+.breadcrumbs {
+	width: 33%;
+	letter-spacing : 1px;
+	font-weight : bold;
+	text-align : center;
+	color : #fff;
+	background-color : transparent;
+}
+.commands {
+	width : 33%;
+	text-align : right;
+	padding-right : 10px;
+	white-space : nowrap;
+}
+.commands ul {
+	list-style : none;
+	border : 0;
+	margin : 0;
+}
+.commands li {
+	display : inline;
+	margin-left : 7px;
+}
+.commands li a {
+	text-decoration : none;
+	font-weight : bold;
+	color : #fff;
+	background-color : transparent;
+}
+.commands li a.createlink {
+	display : none;
+}
+.commands li a:hover {
+	color : #f0e68c;
+	background-color : transparent;
+}
+#content {
+	width : 100%;
+}
+.sidebar {
+	min-width : 150px;
+	max-width : 170px;
+	padding : 10px;
+	vertical-align : top;
+	border-right : 1px solid #ccc;
+}
+.sidebar a {
+	color : #4a0082;
+	background-color : transparent;
+}
+.pagetitle {
+	margin-top : 10px;
+	margin-bottom : 25px;
+	color : #ffa500;
+	background-color : transparent;
+}
+.pagecontent {
+	width : 100%;
+	padding : 10px;
+	vertical-align : top;
+}
+.sidehead {
+	text-decoration : none;
+}
+.sidehead a {
+	text-decoration : none;
+	font-size : 120%;
+	color : #ff8c00;
+	background-color : transparent;
+}
+#footer {
+	width : 100%;
+	padding : 0;
+	margin : 0;
+}
+.verify {
+	background-color : #f0e68c;
+	padding-left : 10px;
+}
+.verify a {
+	color : black;
+	background-color : transparent;
+	text-decoration : none;
+}
+.updated {
+	background-color : #f0e68c;
+	text-align : center;
+}
+.copyright {
+	background-color : #fff;
+	color : #bbb;
+	letter-spacing : 1px;
+	text-align : center;
+}
+.stdcommands {
+	background-color : #f0e68c;
+	text-align : right;
+	padding-right : 10px;
+}
+.stdcommands a {
+	color : black;
+	background-color : transparent;
+	text-decoration : none;
+	margin-left : 5px;
+}
+#wikitext {
+	margin-top : 1em;
+	line-height : 1.33em;
+}
+#wikitext a {
+	color : #4a0082;
+	background-color : transparent;
+}
+#wikiedit form {
+	margin : 0;
+}
+#wikiedit textarea {
+	width : 99%;
+	margin : 0;
+	clear : none;
+}

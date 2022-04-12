@@ -1,0 +1,24 @@
+/* black */
+a:link, a:visited {
+  color: #135cae;
+}
+
+a:hover {
+  color: #0b3768;
+}
+
+div.module_menu {
+  background: url(black/mw_box_br.png) 100% 100% no-repeat;
+}
+
+div.module_menu div {
+  background: url(black/mw_box_bl.png) 0 100% no-repeat;
+}
+
+div.module_menu div div {
+  background: url(black/mw_box_tr.png) 100% 0 no-repeat;
+}
+
+div.module_menu div div div {
+  background: url(black/mw_box_tl.png) 0 0 no-repeat;
+}

@@ -1,0 +1,34 @@
+version=pmwiki-2.2.15 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/5.0.342.7 Safari/533.2
+author=walkingice
+charset=UTF-8
+csum=
+host=127.0.0.1
+name=Site.SideBar
+passwdedit=@_site_edit
+rev=7
+targets=Main.HomePage,PmWiki.PmWiki,PmWikiZhTw.頁面編輯入門,PmWiki.DocumentationIndex,PmWiki.FAQ,Site.SideBar
+text=* [[Main/HomePage]]%0a%25sidehead%25 [[PmWiki/PmWiki]]%0a* [[PmWikiZhTw.頁面編輯入門 | Basic Edit]]%0a* [[PmWiki/Documentation Index]]%0a* [[PmWiki/FAQ | PmWiki FAQ ]]%0a%0a%0a%25sidehead%25 [[http://www.pmwiki.org | pmwiki.org ]]%0a* [[Cookbook:Skins | Skins (themes) ]]%0a%0a%25right%25 [-[[Site.SideBar?action=edit | edit SideBar]]-]
+time=1270229618
+author:1270229618=walkingice
+diff:1270229618:1270087708:=1a2,6%0a> * [[Julian/TodoList]]%0a> ----%0a> * [[Android/Android | Android]]%0a> * [[Julian/Geek | Geek]]%0a> %0a
+host:1270229618=127.0.0.1
+author:1270087708=walkingice
+diff:1270087708:1270052096:minor=5d4%0a%3c * [[Julian/Geek | Geek]]%0a
+host:1270087708=127.0.0.1
+author:1270052096=walkingice
+diff:1270052096:1270052041:=2c2%0a%3c * [[Julian/TodoList]]%0a---%0a> * [[TodoList]]%0a
+host:1270052096=127.0.0.1
+author:1270052041=walkingice
+diff:1270052041:1270030910:minor=2,3c2,4%0a%3c * [[TodoList]]%0a%3c ----%0a---%0a> * [[Main/WikiSandbox]]%0a> %0a> %25sidehead%25 常用頁面%0a
+host:1270052041=127.0.0.1
+author:1270030910=walkingice
+diff:1270030910:1270029817:=8c8%0a%3c * [[PmWikiZhTw.頁面編輯入門 | Basic Edit]]%0a---%0a> * [[PmWiki/Basic Editing]]%0a
+host:1270030910=127.0.0.1
+author:1270029817=walkingice
+diff:1270029817:1270023003:=3,5d2%0a%3c %0a%3c %25sidehead%25 常用頁面%0a%3c * [[Android/Android | Android]]%0a
+host:1270029817=127.0.0.1
+author:1270023003=walkingice
+csum:1270023003=remove useless links of sidebar
+diff:1270023003:1125550800:=4a5%0a> * [[PmWiki/Initial Setup Tasks]]  %0a8,9c9,12%0a%3c %0a%3c %0a---%0a> * [[PmWiki/PmWikiPhilosophy]]%0a> * [[PmWiki/Release Notes]]%0a> * [[PmWiki/ChangeLog]]%0a> %0a10a14%0a> * [[Cookbook:CookbookBasics | Cookbook (addons) ]]%0a11a16,17%0a> * [[PITS:PITS | PITS (issue tracking) ]]%0a> * [[PmWiki/Mailing Lists]]%0a
+host:1270023003=127.0.0.1

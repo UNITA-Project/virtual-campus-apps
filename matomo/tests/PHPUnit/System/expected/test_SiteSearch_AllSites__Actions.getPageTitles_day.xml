@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<results>
+	<result idSite="1">
+		<result date="2010-01-03">
+			<row>
+				<label> Im just a page</label>
+				<nb_visits>1</nb_visits>
+				<nb_uniq_visitors>1</nb_uniq_visitors>
+				<nb_hits>1</nb_hits>
+				<sum_time_spent>36</sum_time_spent>
+				<nb_hits_following_search>1</nb_hits_following_search>
+				<sum_bandwidth>0</sum_bandwidth>
+				<nb_hits_with_bandwidth>0</nb_hits_with_bandwidth>
+				<min_bandwidth />
+				<max_bandwidth />
+				<avg_bandwidth>0</avg_bandwidth>
+				<avg_page_load_time>0</avg_page_load_time>
+				<avg_time_on_page>36</avg_time_on_page>
+				<bounce_rate>0%</bounce_rate>
+				<exit_rate>0%</exit_rate>
+				<segment>pageTitle==Im%2Bjust%2Ba%2Bpage</segment>
+			</row>
+			<row>
+				<label> Pageview, not search</label>
+				<nb_visits>1</nb_visits>
+				<nb_uniq_visitors>1</nb_uniq_visitors>
+				<nb_hits>1</nb_hits>
+				<sum_time_spent>0</sum_time_spent>
+				<sum_bandwidth>0</sum_bandwidth>
+				<nb_hits_with_bandwidth>0</nb_hits_with_bandwidth>
+				<min_bandwidth />
+				<max_bandwidth />
+				<exit_nb_uniq_visitors>1</exit_nb_uniq_visitors>
+				<exit_nb_visits>1</exit_nb_visits>
+				<avg_bandwidth>0</avg_bandwidth>
+				<avg_page_load_time>0</avg_page_load_time>
+				<avg_time_on_page>0</avg_time_on_page>
+				<bounce_rate>0%</bounce_rate>
+				<exit_rate>100%</exit_rate>
+				<segment>pageTitle==Pageview%252C%2Bnot%2Bsearch</segment>
+			</row>
+			<row>
+				<label> This is a pageview, not a Search - IS_FOLLOWING_SEARCH ONCE</label>
+				<nb_visits>1</nb_visits>
+				<nb_uniq_visitors>1</nb_uniq_visitors>
+				<nb_hits>2</nb_hits>
+				<sum_time_spent>216</sum_time_spent>
+				<nb_hits_following_search>1</nb_hits_following_search>
+				<sum_bandwidth>0</sum_bandwidth>
+				<nb_hits_with_bandwidth>0</nb_hits_with_bandwidth>
+				<min_bandwidth />
+				<max_bandwidth />
+				<avg_bandwidth>0</avg_bandwidth>
+				<avg_page_load_time>0</avg_page_load_time>
+				<avg_time_on_page>108</avg_time_on_page>
+				<bounce_rate>0%</bounce_rate>
+				<exit_rate>0%</exit_rate>
+				<segment>pageTitle==This%2Bis%2Ba%2Bpageview%252C%2Bnot%2Ba%2BSearch%2B-%2BIS_FOLLOWING_SEARCH%2BONCE</segment>
+			</row>
+		</result>
+		<result date="2010-01-04" />
+		<result date="2010-01-05" />
+		<result date="2010-01-06" />
+		<result date="2010-01-07" />
+		<result date="2010-01-08" />
+		<result date="2010-01-09" />
+	</result>
+	<result idSite="2">
+		<result date="2010-01-03">
+			<row>
+				<label> IsPageView</label>
+				<nb_visits>1</nb_visits>
+				<nb_uniq_visitors>1</nb_uniq_visitors>
+				<nb_hits>1</nb_hits>
+				<sum_time_spent>540</sum_time_spent>
+				<sum_bandwidth>0</sum_bandwidth>
+				<nb_hits_with_bandwidth>0</nb_hits_with_bandwidth>
+				<min_bandwidth />
+				<max_bandwidth />
+				<entry_nb_uniq_visitors>1</entry_nb_uniq_visitors>
+				<entry_nb_visits>1</entry_nb_visits>
+				<entry_nb_actions>5</entry_nb_actions>
+				<entry_sum_visit_length>1081</entry_sum_visit_length>
+				<entry_bounce_count>0</entry_bounce_count>
+				<avg_bandwidth>0</avg_bandwidth>
+				<avg_page_load_time>0</avg_page_load_time>
+				<avg_time_on_page>540</avg_time_on_page>
+				<bounce_rate>0%</bounce_rate>
+				<exit_rate>0%</exit_rate>
+				<segment>pageTitle==IsPageView</segment>
+			</row>
+			<row>
+				<label> This is a pageview, not a Search</label>
+				<nb_visits>1</nb_visits>
+				<nb_uniq_visitors>1</nb_uniq_visitors>
+				<nb_hits>1</nb_hits>
+				<sum_time_spent>180</sum_time_spent>
+				<sum_bandwidth>0</sum_bandwidth>
+				<nb_hits_with_bandwidth>0</nb_hits_with_bandwidth>
+				<min_bandwidth />
+				<max_bandwidth />
+				<avg_bandwidth>0</avg_bandwidth>
+				<avg_page_load_time>0</avg_page_load_time>
+				<avg_time_on_page>180</avg_time_on_page>
+				<bounce_rate>0%</bounce_rate>
+				<exit_rate>0%</exit_rate>
+				<segment>pageTitle==This%2Bis%2Ba%2Bpageview%252C%2Bnot%2Ba%2BSearch</segment>
+			</row>
+		</result>
+		<result date="2010-01-04" />
+		<result date="2010-01-05" />
+		<result date="2010-01-06" />
+		<result date="2010-01-07" />
+		<result date="2010-01-08" />
+		<result date="2010-01-09" />
+	</result>
+	<result idSite="3">
+		<result date="2010-01-03">
+			<row>
+				<label> IsPageView</label>
+				<nb_visits>1</nb_visits>
+				<nb_uniq_visitors>1</nb_uniq_visitors>
+				<nb_hits>1</nb_hits>
+				<sum_time_spent>540</sum_time_spent>
+				<sum_bandwidth>0</sum_bandwidth>
+				<nb_hits_with_bandwidth>0</nb_hits_with_bandwidth>
+				<min_bandwidth />
+				<max_bandwidth />
+				<entry_nb_uniq_visitors>1</entry_nb_uniq_visitors>
+				<entry_nb_visits>1</entry_nb_visits>
+				<entry_nb_actions>3</entry_nb_actions>
+				<entry_sum_visit_length>541</entry_sum_visit_length>
+				<entry_bounce_count>0</entry_bounce_count>
+				<avg_bandwidth>0</avg_bandwidth>
+				<avg_page_load_time>0</avg_page_load_time>
+				<avg_time_on_page>540</avg_time_on_page>
+				<bounce_rate>0%</bounce_rate>
+				<exit_rate>0%</exit_rate>
+				<segment>pageTitle==IsPageView</segment>
+			</row>
+			<row>
+				<label> Pageview: , Íslenska, Italiano, 日本語, ქართული, 한국어, Lietuvių, Latviešu, Norsk (bokmål), Nederlands, Norsk (nynorsk), Polski, Português brasileiro, Português, Română, Русский, Slovensky, Slovenščina, Shqip, Srpski, Svenska, తెలుగు, ภาษาไทย, Türkçe, Українська, 简体中文, 繁體中文.</label>
+				<nb_visits>1</nb_visits>
+				<nb_uniq_visitors>1</nb_uniq_visitors>
+				<nb_hits>1</nb_hits>
+				<sum_time_spent>0</sum_time_spent>
+				<sum_bandwidth>0</sum_bandwidth>
+				<nb_hits_with_bandwidth>0</nb_hits_with_bandwidth>
+				<min_bandwidth />
+				<max_bandwidth />
+				<exit_nb_uniq_visitors>1</exit_nb_uniq_visitors>
+				<exit_nb_visits>1</exit_nb_visits>
+				<avg_bandwidth>0</avg_bandwidth>
+				<avg_page_load_time>0</avg_page_load_time>
+				<avg_time_on_page>0</avg_time_on_page>
+				<bounce_rate>0%</bounce_rate>
+				<exit_rate>100%</exit_rate>
+				<segment>pageTitle==Pageview%253A%2B%25252C%252520%2525C3%25258Dslenska%25252C%252520Italiano%25252C%252520%2525E6%252597%2525A5%2525E6%25259C%2525AC%2525E8%2525AA%25259E%25252C%252520%2525E1%252583%2525A5%2525E1%252583%252590%2525E1%252583%2525A0%2525E1%252583%252597%2525E1%252583%2525A3%2525E1%252583%25259A%2525E1%252583%252598%25252C%252520%2525ED%252595%25259C%2525EA%2525B5%2525AD%2525EC%252596%2525B4%25252C%252520Lietuvi%2525C5%2525B3%25252C%252520Latvie%2525C5%2525A1u%25252C%252520Norsk%252520%2528bokm%2525C3%2525A5l%2529%25252C%252520Nederlands%25252C%252520Norsk%252520%2528nynorsk%2529%25252C%252520Polski%25252C%252520Portugu%2525C3%2525AAs%252520brasileiro%25252C%252520Portugu%2525C3%2525AAs%25252C%252520Rom%2525C3%2525A2n%2525C4%252583%25252C%252520%2525D0%2525A0%2525D1%252583%2525D1%252581%2525D1%252581%2525D0%2525BA%2525D0%2525B8%2525D0%2525B9%25252C%252520Slovensky%25252C%252520Sloven%2525C5%2525A1%2525C4%25258Dina%25252C%252520Shqip%25252C%252520Srpski%25252C%252520Svenska%25252C%252520%2525E0%2525B0%2525A4%2525E0%2525B1%252586%2525E0%2525B0%2525B2%2525E0%2525B1%252581%2525E0%2525B0%252597%2525E0%2525B1%252581%25252C%252520%2525E0%2525B8%2525A0%2525E0%2525B8%2525B2%2525E0%2525B8%2525A9%2525E0%2525B8%2525B2%2525E0%2525B9%252584%2525E0%2525B8%252597%2525E0%2525B8%2525A2%25252C%252520T%2525C3%2525BCrk%2525C3%2525A7e%25252C%252520%2525D0%2525A3%2525D0%2525BA%2525D1%252580%2525D0%2525B0%2525D1%252597%2525D0%2525BD%2525D1%252581%2525D1%25258C%2525D0%2525BA%2525D0%2525B0%25252C%252520%2525E7%2525AE%252580%2525E4%2525BD%252593%2525E4%2525B8%2525AD%2525E6%252596%252587%25252C%252520%2525E7%2525B9%252581%2525E9%2525AB%252594%2525E4%2525B8%2525AD%2525E6%252596%252587.</segment>
+			</row>
+			<row>
+				<label> This is a pageview, not a Search</label>
+				<nb_visits>1</nb_visits>
+				<nb_uniq_visitors>1</nb_uniq_visitors>
+				<nb_hits>1</nb_hits>
+				<sum_time_spent>0</sum_time_spent>
+				<sum_bandwidth>0</sum_bandwidth>
+				<nb_hits_with_bandwidth>0</nb_hits_with_bandwidth>
+				<min_bandwidth />
+				<max_bandwidth />
+				<avg_bandwidth>0</avg_bandwidth>
+				<avg_page_load_time>0</avg_page_load_time>
+				<avg_time_on_page>0</avg_time_on_page>
+				<bounce_rate>0%</bounce_rate>
+				<exit_rate>0%</exit_rate>
+				<segment>pageTitle==This%2Bis%2Ba%2Bpageview%252C%2Bnot%2Ba%2BSearch</segment>
+			</row>
+		</result>
+		<result date="2010-01-04" />
+		<result date="2010-01-05" />
+		<result date="2010-01-06" />
+		<result date="2010-01-07" />
+		<result date="2010-01-08" />
+		<result date="2010-01-09" />
+	</result>
+</results>

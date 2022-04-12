@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<results>
+	<result date="2010-12-15">
+		<row>
+			<label>Site AAAAAA</label>
+			<nb_visits>2</nb_visits>
+			<nb_actions>3</nb_actions>
+			<nb_pageviews>3</nb_pageviews>
+			<revenue>0</revenue>
+			<visits_evolution>0%</visits_evolution>
+			<visits_evolution_trend>0</visits_evolution_trend>
+			<actions_evolution>0%</actions_evolution>
+			<actions_evolution_trend>0</actions_evolution_trend>
+			<pageviews_evolution>0%</pageviews_evolution>
+			<pageviews_evolution_trend>0</pageviews_evolution_trend>
+			<revenue_evolution>0%</revenue_evolution>
+			<revenue_evolution_trend>0</revenue_evolution_trend>
+			<idsite>1</idsite>
+			<ratio>1</ratio>
+			<currencySymbol>$</currencySymbol>
+			<previous_nb_visits>2</previous_nb_visits>
+			<periodName>day</periodName>
+			<previousRange>Tue, Dec 14</previousRange>
+			<previous_nb_actions>3</previous_nb_actions>
+			<previous_Actions_nb_pageviews>3</previous_Actions_nb_pageviews>
+			<previous_Goal_revenue>0</previous_Goal_revenue>
+			<group />
+			<main_url>http://piwik.net</main_url>
+		</row>
+		<row>
+			<label>SITE BBbbBB</label>
+			<nb_visits>1</nb_visits>
+			<nb_actions>1</nb_actions>
+			<nb_pageviews>1</nb_pageviews>
+			<revenue>0</revenue>
+			<visits_evolution>0%</visits_evolution>
+			<visits_evolution_trend>0</visits_evolution_trend>
+			<actions_evolution>0%</actions_evolution>
+			<actions_evolution_trend>0</actions_evolution_trend>
+			<pageviews_evolution>0%</pageviews_evolution>
+			<pageviews_evolution_trend>0</pageviews_evolution_trend>
+			<revenue_evolution>0%</revenue_evolution>
+			<revenue_evolution_trend>0</revenue_evolution_trend>
+			<idsite>2</idsite>
+			<ratio>1</ratio>
+			<currencySymbol>$</currencySymbol>
+			<previous_nb_visits>1</previous_nb_visits>
+			<periodName>day</periodName>
+			<previousRange>Tue, Dec 14</previousRange>
+			<previous_nb_actions>1</previous_nb_actions>
+			<previous_Actions_nb_pageviews>1</previous_Actions_nb_pageviews>
+			<previous_Goal_revenue>0</previous_Goal_revenue>
+			<group />
+			<main_url>http://piwik.net</main_url>
+		</row>
+	</result>
+	<result date="2010-12-16" />
+	<result date="2010-12-17" />
+	<result date="2010-12-18" />
+	<result date="2010-12-19" />
+	<result date="2010-12-20" />
+	<result date="2010-12-21" />
+	<result date="2010-12-22" />
+	<result date="2010-12-23" />
+	<result date="2010-12-24" />
+	<result date="2010-12-25">
+		<row>
+			<label>Site AAAAAA</label>
+			<nb_visits>2</nb_visits>
+			<nb_actions>3</nb_actions>
+			<nb_pageviews>3</nb_pageviews>
+			<revenue>0</revenue>
+			<visits_evolution>100%</visits_evolution>
+			<visits_evolution_trend>1</visits_evolution_trend>
+			<actions_evolution>100%</actions_evolution>
+			<actions_evolution_trend>1</actions_evolution_trend>
+			<pageviews_evolution>100%</pageviews_evolution>
+			<pageviews_evolution_trend>1</pageviews_evolution_trend>
+			<revenue_evolution>0%</revenue_evolution>
+			<revenue_evolution_trend>0</revenue_evolution_trend>
+			<idsite>1</idsite>
+			<ratio>1</ratio>
+			<currencySymbol>$</currencySymbol>
+			<previous_nb_visits>0</previous_nb_visits>
+			<periodName>day</periodName>
+			<previousRange>Fri, Dec 24</previousRange>
+			<previous_nb_actions>0</previous_nb_actions>
+			<previous_Actions_nb_pageviews>0</previous_Actions_nb_pageviews>
+			<previous_Goal_revenue>0</previous_Goal_revenue>
+			<group />
+			<main_url>http://piwik.net</main_url>
+		</row>
+		<row>
+			<label>SITE BBbbBB</label>
+			<nb_visits>1</nb_visits>
+			<nb_actions>1</nb_actions>
+			<nb_pageviews>1</nb_pageviews>
+			<revenue>0</revenue>
+			<visits_evolution>100%</visits_evolution>
+			<visits_evolution_trend>1</visits_evolution_trend>
+			<actions_evolution>100%</actions_evolution>
+			<actions_evolution_trend>1</actions_evolution_trend>
+			<pageviews_evolution>100%</pageviews_evolution>
+			<pageviews_evolution_trend>1</pageviews_evolution_trend>
+			<revenue_evolution>0%</revenue_evolution>
+			<revenue_evolution_trend>0</revenue_evolution_trend>
+			<idsite>2</idsite>
+			<ratio>1</ratio>
+			<currencySymbol>$</currencySymbol>
+			<previous_nb_visits>0</previous_nb_visits>
+			<periodName>day</periodName>
+			<previousRange>Fri, Dec 24</previousRange>
+			<previous_nb_actions>0</previous_nb_actions>
+			<previous_Actions_nb_pageviews>0</previous_Actions_nb_pageviews>
+			<previous_Goal_revenue>0</previous_Goal_revenue>
+			<group />
+			<main_url>http://piwik.net</main_url>
+		</row>
+	</result>
+	<result date="2010-12-26" />
+	<result date="2010-12-27" />
+	<result date="2010-12-28" />
+	<result date="2010-12-29" />
+	<result date="2010-12-30" />
+	<result date="2010-12-31" />
+	<result date="2011-01-01" />
+	<result date="2011-01-02" />
+	<result date="2011-01-03" />
+	<result date="2011-01-04" />
+	<result date="2011-01-05" />
+	<result date="2011-01-06" />
+	<result date="2011-01-07" />
+	<result date="2011-01-08" />
+	<result date="2011-01-09" />
+	<result date="2011-01-10" />
+	<result date="2011-01-11" />
+	<result date="2011-01-12" />
+	<result date="2011-01-13" />
+	<result date="2011-01-14" />
+	<result date="2011-01-15">
+		<row>
+			<label>Site AAAAAA</label>
+			<nb_visits>2</nb_visits>
+			<nb_actions>3</nb_actions>
+			<nb_pageviews>3</nb_pageviews>
+			<revenue>0</revenue>
+			<visits_evolution>100%</visits_evolution>
+			<visits_evolution_trend>1</visits_evolution_trend>
+			<actions_evolution>100%</actions_evolution>
+			<actions_evolution_trend>1</actions_evolution_trend>
+			<pageviews_evolution>100%</pageviews_evolution>
+			<pageviews_evolution_trend>1</pageviews_evolution_trend>
+			<revenue_evolution>0%</revenue_evolution>
+			<revenue_evolution_trend>0</revenue_evolution_trend>
+			<idsite>1</idsite>
+			<ratio>1</ratio>
+			<currencySymbol>$</currencySymbol>
+			<previous_nb_visits>0</previous_nb_visits>
+			<periodName>day</periodName>
+			<previousRange>Fri, Jan 14</previousRange>
+			<previous_nb_actions>0</previous_nb_actions>
+			<previous_Actions_nb_pageviews>0</previous_Actions_nb_pageviews>
+			<previous_Goal_revenue>0</previous_Goal_revenue>
+			<group />
+			<main_url>http://piwik.net</main_url>
+		</row>
+	</result>
+</results>

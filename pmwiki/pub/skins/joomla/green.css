@@ -1,0 +1,24 @@
+/* green */
+a:link, a:visited {
+  color: #4ba123;
+}
+
+a:hover {
+  color: #316b16;
+}
+
+div.module_menu {
+  background: url(green/mw_box_br.png) 100% 100% no-repeat;
+}
+
+div.module_menu div {
+  background: url(green/mw_box_bl.png) 0 100% no-repeat;
+}
+
+div.module_menu div div {
+  background: url(green/mw_box_tr.png) 100% 0 no-repeat;
+}
+
+div.module_menu div div div {
+  background: url(green/mw_box_tl.png) 0 0 no-repeat;
+}

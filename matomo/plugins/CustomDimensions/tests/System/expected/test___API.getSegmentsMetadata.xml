@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<result>
+	<row>
+		<type>metric</type>
+		<category>Visitors</category>
+		<name>Actions In Visit</name>
+		<segment>actions</segment>
+	</row>
+	<row>
+		<type>metric</type>
+		<category>Visitors</category>
+		<name>Days since first visit</name>
+		<segment>daysSinceFirstVisit</segment>
+	</row>
+	<row>
+		<type>metric</type>
+		<category>Visitors</category>
+		<name>Days since last Ecommerce order</name>
+		<segment>daysSinceLastEcommerceOrder</segment>
+	</row>
+	<row>
+		<type>metric</type>
+		<category>Visitors</category>
+		<name>Days since last visit</name>
+		<segment>daysSinceLastVisit</segment>
+	</row>
+	<row>
+		<type>metric</type>
+		<category>Visitors</category>
+		<name>Events</name>
+		<segment>events</segment>
+	</row>
+	<row>
+		<type>metric</type>
+		<category>Visitors</category>
+		<name>Local time - minute (Start of visit)</name>
+		<segment>visitLocalMinute</segment>
+	</row>
+	<row>
+		<type>metric</type>
+		<category>Visitors</category>
+		<name>Number of Interactions</name>
+		<segment>interactions</segment>
+	</row>
+	<row>
+		<type>metric</type>
+		<category>Visitors</category>
+		<name>Number of Internal Searches</name>
+		<segment>searches</segment>
+	</row>
+	<row>
+		<type>metric</type>
+		<category>Visitors</category>
+		<name>Number of visits</name>
+		<segment>visitCount</segment>
+	</row>
+	<row>
+		<type>metric</type>
+		<category>Visitors</category>
+		<name>Seconds since first visit</name>
+		<segment>secondsSinceFirstVisit</segment>
+	</row>
+	<row>
+		<type>metric</type>
+		<category>Visitors</category>
+		<name>Seconds since last Ecommerce order</name>
+		<segment>secondsSinceLastEcommerceOrder</segment>
+	</row>
+	<row>
+		<type>metric</type>
+		<category>Visitors</category>
+		<name>Seconds since last visit</name>
+		<segment>secondsSinceLastVisit</segment>
+	</row>
+	<row>
+		<type>metric</type>
+		<category>Visitors</category>
+		<name>Visit Duration (in seconds)</name>
+		<segment>visitDuration</segment>
+	</row>
+	<row>
+		<type>metric</type>
+		<category>Visitors</category>
+		<name>Visitor IP</name>
+		<segment>visitIp</segment>
+		<permission>1</permission>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Browser</name>
+		<segment>browserName</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Browser code</name>
+		<segment>browserCode</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Browser engine</name>
+		<segment>browserEngine</segment>
+		<suggestedValuesCallback>\DeviceDetector\Parser\Client\Browser\Engine::getAvailableEngines</suggestedValuesCallback>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Browser version</name>
+		<segment>browserVersion</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Device brand</name>
+		<segment>deviceBrand</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Device model</name>
+		<segment>deviceModel</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Device type</name>
+		<segment>deviceType</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Fingerprint</name>
+		<segment>fingerprint</segment>
+		<permission>1</permission>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Local time - hour (Start of visit)</name>
+		<segment>visitLocalHour</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>MyName1</name>
+		<segment>dimension1</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>MyName2</name>
+		<segment>dimension2</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>MyName6</name>
+		<segment>dimension6</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Operating system</name>
+		<segment>operatingSystemName</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Operating system code</name>
+		<segment>operatingSystemCode</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Operating system version</name>
+		<segment>operatingSystemVersion</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Profilable</name>
+		<segment>profilable</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Resolution</name>
+		<segment>resolution</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Site time - hour (Start of visit)</name>
+		<segment>visitStartServerHour</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Site time - hour (Time of last action)</name>
+		<segment>visitServerHour</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Time in UTC - date (Time of last action)</name>
+		<segment>visitEndServerDate</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Time in UTC - day of month (Time of last action)</name>
+		<segment>visitEndServerDayOfMonth</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Time in UTC - day of week (Time of last action)</name>
+		<segment>visitEndServerDayOfWeek</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Time in UTC - day of year (Time of last action)</name>
+		<segment>visitEndServerDayOfYear</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Time in UTC - minute (Start of visit)</name>
+		<segment>visitStartServerMinute</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Time in UTC - minute (Time of last action)</name>
+		<segment>visitEndServerMinute</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Time in UTC - month (Time of last action)</name>
+		<segment>visitEndServerMonth</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Time in UTC - quarter (Time of last action)</name>
+		<segment>visitEndServerQuarter</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Time in UTC - second (Time of last action)</name>
+		<segment>visitEndServerSecond</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Time in UTC - week of year (Time of last action)</name>
+		<segment>visitEndServerWeekOfYear</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Time in UTC - year (Time of last action)</name>
+		<segment>visitEndServerYear</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>User ID</name>
+		<segment>userId</segment>
+		<permission>1</permission>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Visit Ecommerce status at the end of the visit</name>
+		<segment>visitEcommerceStatus</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Visit ID</name>
+		<segment>visitId</segment>
+		<permission>1</permission>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Visit converted a specific Goal Id</name>
+		<segment>visitConvertedGoalId</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Visit converted at least one Goal</name>
+		<segment>visitConverted</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Visit type</name>
+		<segment>visitorType</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Visitors</category>
+		<name>Visitor ID</name>
+		<segment>visitorId</segment>
+		<permission>1</permission>
+	</row>
+	<row>
+		<type>metric</type>
+		<category>Behaviour</category>
+		<name>Bandwidth</name>
+		<segment>bandwidth</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Action Type</name>
+		<segment>actionType</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Action URL</name>
+		<segment>actionUrl</segment>
+		<unionOfSegments>
+			<row>pageUrl</row>
+			<row>downloadUrl</row>
+			<row>outlinkUrl</row>
+			<row>eventUrl</row>
+		</unionOfSegments>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Category (Site Search)</name>
+		<segment>siteSearchCategory</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Clicked Outlink</name>
+		<segment>outlinkUrl</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Content Interaction</name>
+		<segment>contentInteraction</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Content Name</name>
+		<segment>contentName</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Content Piece</name>
+		<segment>contentPiece</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Content Target</name>
+		<segment>contentTarget</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Download URL</name>
+		<segment>downloadUrl</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Entry Page URL</name>
+		<segment>entryPageUrl</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Entry Page title</name>
+		<segment>entryPageTitle</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Exit Page Title</name>
+		<segment>exitPageTitle</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Exit Page URL</name>
+		<segment>exitPageUrl</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Keyword (Site Search)</name>
+		<segment>siteSearchKeyword</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Keyword count (Site Search)</name>
+		<segment>siteSearchCount</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>MyName3</name>
+		<segment>dimension3</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>MyName5</name>
+		<segment>dimension5</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Page Title</name>
+		<segment>pageTitle</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Page URL</name>
+		<segment>pageUrl</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Site time - hour</name>
+		<segment>actionServerHour</segment>
+	</row>
+	<row>
+		<type>dimension</type>
+		<category>Behaviour</category>
+		<name>Time in UTC - minute</name>
+		<segment>actionServerMinute</segment>
+	</row>
+</result>

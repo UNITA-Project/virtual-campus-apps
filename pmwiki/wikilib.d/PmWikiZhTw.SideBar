@@ -1,0 +1,12 @@
+version=pmwiki-2.2.0-beta65 ordered=1 urlencoded=1
+agent=Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+author=imoc
+charset=UTF-8
+csum=
+ctime=1197295139
+host=211.72.233.9
+name=PmWikiZhTw.SideBar
+rev=15
+targets=Main.WikiSandbox,Site.AllRecentChanges,PmWiki.PmWiki,PmWiki.FAQ,PmWiki.PmWikiFeatures,PmWiki.Download,PmWiki.Installation,PmWiki.BasicEditing,PmWiki.DocumentationIndex,PmWiki.PmWikiPhilosophy,PmWiki.ReleaseNotes,PmWiki.ChangeLog,PmWiki.RoadMap,Cookbook.Cookbook,PmWiki.Categories,Cookbook.Skins,PITS.PITS,PmWiki.MailingLists,PmWiki.PmWikiUsers,PmWiki.SuccessStories,Site.Site,PmWiki.SendPmMoney,PmWiki.OtherLanguages
+text=* [[首頁->http://pmwiki.org/wiki/PmWiki/PmWiki]]%0a* [[測試沙盒->Main/WikiSandbox]]%0a* [[全站更新記錄->Site/AllRecentChanges]]%0a** (short) %0a%0a[[PmWiki/PmWiki]]%0a%0a* [[PmWiki/FAQ]]%0a* [[特色->PmWiki/PmWikiFeatures]]%0a* [[下載->PmWiki/Download]]%0a* [[安裝->PmWiki/Installation]]%0a* [[基礎編寫->PmWiki/BasicEditing]]%0a* [[說明文件總目->PmWiki/DocumentationIndex]]%0a* [[開發哲學->PmWiki/PmWikiPhilosophy]]%0a* [[版本發行說明->PmWiki/ReleaseNotes]]%0a* [[程式修改記錄->PmWiki/ChangeLog]]%0a* [[未來走向->PmWiki/RoadMap]]%0a%0apmwiki.org%0a%0a* [[特殊功能調理包->Cookbook/Cookbook]]%0a* [[類別->PmWiki/Categories]]%0a* [[外觀模版->Cookbook/Skins]]%0a* [[PITS問題追蹤->PITS/PITS]]%0a* [[MailingLists->PmWiki/MailingLists]]%0a* [[使用者->PmWiki/PmWikiUsers]]%0a* [[成功故事->PmWiki/SuccessStories]]%0a* [[站務管理->Site/Site]]%0a* [[贊助PM->PmWiki/SendPmMoney]]%0a* [[其他語言版本->PmWiki/OtherLanguages]]
+time=1198471598

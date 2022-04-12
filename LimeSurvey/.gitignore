@@ -1,0 +1,185 @@
+# Never include config.php
+/application/config/config.php
+/application/config/config.*.php
+/application/config/security.php
+
+# Don't include LS4 security.php
+/application/config/security.php
+
+## Ignore any hidden folder/files (except explicitly defined)
+## such as various IDE folders .idea .netbeans .vscode
+## or development environment things like .vagrant etc
+.*
+!.htaccess
+!.scrutinizer.yml
+!.bowerrc
+!.gitignore
+!.gitattributes
+!.editorconfig
+!.travis.yml
+!.babelrc
+!.eslintrc.json
+!.eslintrc
+!.env-cmdrc
+!.eslintignore
+
+# upload directory : whole except the index.html and readme.txt
+/upload/*.*
+/upload/uploadsave/**/*.*
+!/upload/index.html
+/upload/admintheme/**/*
+!/upload/admintheme/index.html
+/upload/labels/**/*.*
+!/upload/labels/index.html
+!/upload/labels/readme.txt
+/upload/surveys/**/*
+!/upload/surveys/index.html
+!/upload/surveys/readme.txt
+!/upload/surveys/.htaccess
+/upload/templates/*.*
+!/upload/templates/index.html
+!/upload/templates/readme.txt
+!/upload/themes/index.html
+/upload/themes/survey/*
+!/upload/themes/survey/generalfiles
+/upload/themes/survey/generalfiles/*.*
+!/upload/themes/survey/generalfiles/index.html
+!/upload/themes/survey/index.html
+!/upload/themes/survey/generalfiles/index.html
+/upload/themes/question/*.*
+/upload/themes/question/**/*.*
+!/upload/themes/question/readme.txt
+/upload/plugins/*
+!/upload/plugins/index.html
+/upload/global/*.*
+/upload/global/**/*.*
+!/upload/global/index.html
+!/upload/global/readme.txt
+
+# tmp directory : whole except the index.html for directory create
+/tmp/*
+/tmp/assets/*
+/tmp/runtime/*
+/tmp/upload/*
+!/tmp/index.html
+!/tmp/assets/index.html
+!/tmp/runtime/index.html
+!/tmp/upload/index.html
+
+# ignore plugins directory by default except LS plugin
+# if you want to add a new distributed plugin : add the directory here
+/plugins/*
+!/plugins/index.html
+
+#ignore old styles
+/styles/
+
+#ignore most of the js-build stuff
+node_modules/
+third_party/**/docs/
+third_party/**/scripts/
+third_party/**/tests/
+third_party/**/scss/
+third_party/**/less/
+third_party/**/*.sh
+third_party/**/*.md
+third_party/**/gulpfile.js
+yarn-error.log
+
+# Test stuff
+chromedriver
+
+# RFC and commons directory and files
+/.well-known/
+/sitemap.xml
+/robots.txt
+
+# Some global "temporary files" (see
+*~
+*.map
+!/assets/**/*.map
+ehthumbs.db
+Thumbs.db
+
+
+# miscellaneous
+/application/controllers/admin/updater.php
+/nbproject
+*.un~
+launch.json
+enabletests
+
+## Ignore test tmp files
+/tests/data/tmp/**
+
+## Ignore files and dependencies for testing
+composer.lock
+third_party/bin/phpcbf
+third_party/bin/phpcs
+third_party/squizlabs/
+third_party/amphp/
+third_party/bin/
+third_party/composer/autoload_files.php
+third_party/composer/installed\.json
+third_party/composer/package-versions-deprecated/
+third_party/composer/semver/
+third_party/composer/xdebug-handler/
+third_party/doctrine/
+third_party/dnoegel/
+third_party/felixfbecker/
+third_party/myclabs/
+third_party/netresearch/
+third_party/nikic/
+third_party/ocramius/
+third_party/openlss/
+third_party/pdepend/
+third_party/phar-io/
+third_party/php-webdriver/
+third_party/phpdocumentor/
+third_party/phpmd/
+third_party/phpspec/
+third_party/phpunit/
+third_party/psr/
+third_party/sebastian/
+third_party/theseer/
+third_party/vimeo/
+third_party/webmozart/
+third_party/misantron/
+upload/templates/
+assets/packages/ckeditor/samples
+
+
+## ignore Vagrantfile and Adminer
+adminer.php
+Vagrantfile
+
+## Exclude uploaded images in themes
+themes/survey/default/files/*
+themes/survey/material/files/*
+themes/survey/monochrome/files/*
+themes/survey/no_bootstrap/files/*
+
+## But still push the preshipped ones
+!themes/survey/*/files/logo.png
+!themes/survey/*/files/logo_340.png
+!themes/survey/*/files/logo_w_s.png
+!themes/survey/*/files/pattern.png
+!themes/survey/*/files/print_img_radio.png
+adminer.php
+
+# Used by tests.
+geckodriver
+selenium-server-standalone-3.7.1.jar
+
+# Used by Vim and Emacs
+tags
+
+# Yarn is our main package manager system -> so ignore npm lock files
+package-lock.json
+
+# Docker related files
+.dockerignore
+.Dockerfile
+docker-compose.yml
+docker/
+/geckodriver-v0.23.0-linux64.tar.gz
