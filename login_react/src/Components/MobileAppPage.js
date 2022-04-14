@@ -38,12 +38,15 @@ export function MobileAppPage () {
                     <Button onClick={handleClick} variant="contained">
                         {mobileAppText.linkText}
                     </Button>
-                    <Typography style={{marginTop: '20px'}} variant="body2" component="div" color="text.secondary">
+                    <Typography style={{ marginTop: '20px' }} variant="body2" component="div" color="text.secondary">
                         {mobileAppText.QRCaption}:
                     </Typography>
-                    <CardMedia component="img" 
-                        image={MobileAppQR}
-                    />
+                    <div style={{ width: "100%", display: "flex", justifyContent: 'center', marginTop: '20px' }}>
+                        <CardMedia component="img" 
+                            image={MobileAppQR}
+                            sx={{ width: "80%"}}
+                        />
+                    </div>
                 </CardContent>
             </Card>
         </CardContainer>
