@@ -21,7 +21,7 @@ export function MobileAppPage () {
     };
 
     if (redirect) {
-        window.location.href = 'https://github.com/UNITA-Project/unita_mobile_app/releases/tag/0.1.0';
+        window.location.href = 'https://github.com/UNITA-Project/virtual-campus-apps/releases/tag/pre-release';
     }
 
     return (
