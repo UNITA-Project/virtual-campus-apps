@@ -7,7 +7,7 @@ The UNITA Virtual Campus consists of:
 * UNITA Forum (based of [NodeBB](https://github.com/NodeBB/NodeBB))
 * UNITA Wiki (based of [MediaWiki](https://github.com/wikimedia/mediawiki))
 * Analytics Page (based of [Matomo](https://github.com/matomo-org/matomo))
-* Server (based of [Keycloak](https://github.com/keycloak/keycloak))
+* Identity and Access Management (based of [Keycloak](https://github.com/keycloak/keycloak))
 
 ## Dashboard
 The dashboard consists of an university-selection page, redirecting to the login page of each university and then to the service menu. From here, you can access any of the services provided by the Virtual Campus. 
